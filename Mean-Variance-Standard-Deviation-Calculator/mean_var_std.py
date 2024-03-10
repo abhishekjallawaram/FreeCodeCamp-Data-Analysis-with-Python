@@ -16,5 +16,5 @@ def calculate(list):
         'min': [matrix.min(axis=0).tolist(), matrix.min(axis=1).tolist(), matrix.min()],
         'sum': [matrix.sum(axis=0).tolist(), matrix.sum(axis=1).tolist(), matrix.sum()]
     }
-
     return calculations
+

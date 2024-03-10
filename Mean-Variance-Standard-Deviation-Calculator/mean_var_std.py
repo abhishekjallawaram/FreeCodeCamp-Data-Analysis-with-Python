@@ -19,11 +19,17 @@ def calculate(list_input):
     
     return results
 
-# Example usage
 if __name__ == "__main__":
     example_input = [0, 1, 2, 3, 4, 5, 6, 7, 8]
     try:
         example_output = calculate(example_input)
-        print(example_output)
+        # Pretty print the output in the specified format
+        print("{\n  'mean': " + str(example_output['mean']) + ",")
+        print("  'variance': " + str(example_output['variance']) + ",")
+        print("  'standard deviation': " + str(example_output['standard deviation']) + ",")
+        print("  'max': " + str(example_output['max']) + ",")
+        print("  'min': " + str(example_output['min']) + ",")
+        print("  'sum': " + str(example_output['sum']) + "\n}")
     except ValueError as e:
         print(e)
+

@@ -1,2 +1,3 @@
 # FreeCodeCamp-Data-Analysis-with-Python
-![alt text](Certificate-Data-Analysis-with-Python.png)
+[![image](Certificate-Data-Analysis-with-Python)]([https://your-redirect-url.com](https://www.freecodecamp.org/certification/fcc82b0b64e-0733-4bde-b7a6-adac2db9f9b7/data-analysis-with-python-v7)https://www.freecodecamp.org/certification/fcc82b0b64e-0733-4bde-b7a6-adac2db9f9b7/data-analysis-with-python-v7)
+
